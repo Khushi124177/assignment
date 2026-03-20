@@ -1,0 +1,7 @@
+{
+  "prompt": "A powerful emotional visual metaphor of rising carbon emissions, the Earth being engulfed by dark smoke rising from below, smoke getting denser upward, no labels, no charts, cinematic, symbolic, environmental crisis",
+  "model": "DALL·E 3",
+  "dataset_name": "Global CO2 Emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "Human activity has caused a dramatic rise in CO2 emissions, especially after 1950."
+}
